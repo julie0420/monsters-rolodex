@@ -15,3 +15,4 @@ const card = ({ monster }) => {
 };
 
 export default card;
+//jhjhl
