@@ -17,3 +17,4 @@ const card = ({ monster }) => {
 export default card;
 //jhjhl
 //jhjhljhl
+//ijoj;kj;klj
